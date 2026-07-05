@@ -16,7 +16,4 @@ A Google Form that, on every submission, uses Claude to write a one-line summary
 7. Set the trigger: **Triggers (clock icon) → Add Trigger → choose `onFormSubmit`, event source "From spreadsheet", type "On form submit"**.
 8. Submit a test response through the Form. Within a few seconds the Sheet gets an **AI Summary** column and you get an email.
 
-## Make it real
-
-Offer this to the nonprofit from project #5 for one of their existing intake or contact forms. Turning a pile of raw form responses into triaged, summarized, emailed alerts is genuinely useful and takes you an afternoon.
 

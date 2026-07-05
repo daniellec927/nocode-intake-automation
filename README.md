@@ -20,6 +20,3 @@ A Google Form that, on every submission, uses Claude to write a one-line summary
 
 Offer this to the nonprofit from project #5 for one of their existing intake or contact forms. Turning a pile of raw form responses into triaged, summarized, emailed alerts is genuinely useful and takes you an afternoon.
 
-## Judgment note (good to mention in an interview)
-
-The prompt tells Claude to be **conservative** with the HIGH urgency flag (only safety/housing/medical). Auto-triaging real people's needs is exactly where you must design against false confidence — a good example of the judgment Claude Corps screens for.
